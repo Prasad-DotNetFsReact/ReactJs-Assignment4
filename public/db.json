@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "id": "0ac5",
+      "firstName": "poul",
+      "lastName": "poul",
+      "email": "pksrpot@gmail.com",
+      "password": "rknfkfefnk",
+      "address": "knrfenn kjfrk",
+      "mobile": "353554664"
+    },
+    {
+      "id": "fd34",
+      "firstName": "poul",
+      "lastName": "poul",
+      "email": "pkepot@gmail.com",
+      "password": "poul",
+      "address": "dfnkksndkkfbks",
+      "mobile": "00898000"
+    },
+    {
+      "id": "2d14",
+      "firstName": "poul",
+      "lastName": "poul",
+      "email": "prasadpoul555@gmail.com",
+      "password": "poul",
+      "address": "solapur",
+      "mobile": "7821040055"
+    },
+    {
+      "id": "59f1",
+      "firstName": "poul",
+      "lastName": "hello",
+      "email": "pr@gmail.com",
+      "password": "poul",
+      "address": "kjdnskfndk",
+      "mobile": "783489358"
+    }
+  ]
+}
